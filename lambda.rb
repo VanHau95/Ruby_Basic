@@ -13,3 +13,5 @@ end
 pt=PhepTinh.new
 pt.tinh{|x| x*x }
 pt.tinh{|x| x**x }
+
+
